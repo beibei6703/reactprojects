@@ -1,0 +1,18 @@
+.logo{
+	width:140px;
+	margin-left:15px;
+	margin-top:10px;
+}
+.menu{
+	line-height:36px;
+}
+.tab{
+	width:100%;
+}
+.tab td{
+	font-size:14px;
+	width:100px;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+}
